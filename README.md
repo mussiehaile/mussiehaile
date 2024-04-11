@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi I am mussie I am a data scientist ,data analyst who loves working with data and develop models for living .<br>
+hi I am mussie I am a machine learning engineer  who loves working with data and develop models for living .<br>
 
 
 ## 🌐 Socials:
